@@ -2,7 +2,7 @@
 
 Welcome to **Sooner Competitive Robotics**'s GitHub!
 
-We are a student competition team at [The University of Oklahoma](https://ou.edu/scr/) who build robotics all of shapes and sizes.
+We are a student competition team at [The University of Oklahoma](https://ou.edu/scr/) who build robots all of shapes and sizes.
 
 ## Repositories
 
