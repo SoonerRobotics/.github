@@ -8,9 +8,9 @@ We are a student competition team at [The University of Oklahoma](https://ou.edu
 
 Our core repositories are available below:
 
-- ![](https://img.shields.io/github/commit-activity/y/soonerrobotics/igvc_software_2026?style=plastic&label=igvc_softare_2027%20commits)
+- ![](https://img.shields.io/github/commit-activity/y/soonerrobotics/igvc_software_2027?style=plastic&label=igvc_software_2027%20commits)
   - The software for our IGVC 2027 Entry.
-- ![](https://img.shields.io/github/commit-activity/y/soonerrobotics/storm_software_2026?style=plastic&label=storm_software_2027%20commits)
+- ![](https://img.shields.io/github/commit-activity/y/soonerrobotics/storm_software_2027?style=plastic&label=storm_software_2027%20commits)
   - The software for our STORM 2027 Entry.
 - ![](https://img.shields.io/github/commit-activity/y/soonerrobotics/scr_simulator?style=plastic&label=scr_simulator%20commits)
   - Our inhouse simulator used to test our robotics far before they are physically built.
